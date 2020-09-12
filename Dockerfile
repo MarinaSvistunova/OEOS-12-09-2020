@@ -8,4 +8,4 @@ ADD index.html /data/index.html
 
 EXPOSE 4321
 
-CMD nginx -g ‘daemon off;’
+CMD nginx -g 'daemon off;'
